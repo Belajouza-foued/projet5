@@ -1,0 +1,36 @@
+.sous-titre1 {
+    color:orange;
+}
+.title1 {
+   font-size: 40px;
+}
+
+.card-title {
+background-color: rgb(235,245,230);
+padding: 5%;
+border-radius: 8px;
+
+}
+.card-title:hover {
+    background-color:white;
+    padding: 5%;
+    border-radius: 8px;
+    color: orange;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+ }
+ .card-paragraph {
+    background-color: black;
+     padding: 5%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgb(235,245,230)
+     }
+     .title-paragraph {
+      color: white;
+      padding-top: 50%;
+     }
+     .title-paragraph:hover {
+        color: orange;
+        padding-top: 50%;
+       
+       }
+    
