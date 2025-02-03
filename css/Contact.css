@@ -1,0 +1,27 @@
+
+.title-1 {
+    color:red ;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+
+input ,select ,textarea{
+    margin-top: 2% !important;
+    background-color: rgb(rgb(169, 169, 169), green, blue) !important;
+    border: 1px solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid black !important;
+}
+#but {
+   
+    margin-top: 2%;
+    width: 25%;
+    background-color: black;
+}
+#but:hover {
+   
+    margin-top: 2%;
+    width: 25%;
+    background-color: white;
+     color: black;
+}
